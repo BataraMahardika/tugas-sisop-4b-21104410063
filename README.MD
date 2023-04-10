@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410063 |
+| Nama Lengkap | Batara Mahardika Aryoko |
 | Kelas | TI-4B |
